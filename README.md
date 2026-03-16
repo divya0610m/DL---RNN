@@ -11,11 +11,6 @@ To develop a Recurrent Neural Network (RNN) model for predicting stock prices us
 <img width="882" height="843" alt="Screenshot 2026-03-09 092537 TRAIN DATA 5" src="https://github.com/user-attachments/assets/fc43b42b-4e61-4692-9f1b-315e2b51ec43" />
 
 
-
-
-
-
-
 ## DESIGN STEPS
 ### STEP 1: 
 Load and normalize data, create sequences.
@@ -184,10 +179,12 @@ print(f'Actual Price: {actual_prices[-1]}')
 <img src="https://img.sanishtech.com/u/2c18045f5fc3ea524086e43205dbdbb4.png" alt="Screenshot 2026-03-09 091523" width="702" height="802" loading="lazy" style="max-width:100%;height:auto;">
 
 ## True Stock Price, Predicted Stock Price vs time
-<img width="1088" height="727" alt="STOCK PREDICTION 5" src="https://github.com/user-attachments/assets/b2d84f95-df7b-4793-bd94-a21263d07bdd" />
+
+<img src="https://img.sanishtech.com/u/0bc177a7e39cf6f8de656095fbfc977d.png" alt="Screenshot 2026-03-09 091716" width="1092" height="659" loading="lazy" style="max-width:100%;height:auto;">
 
 ### Predictions
-<img width="286" height="52" alt="PRDICTED 5" src="https://github.com/user-attachments/assets/43725a38-bccb-4e3b-b8ac-1e6477941adb" />
+
+<img src="https://img.sanishtech.com/u/ba6f27bf9fb2611cbc1ff4234293df92.png" alt="Screenshot 2026-03-09 091641" width="290" height="45" loading="lazy" style="max-width:100%;height:auto;">
 
 
 ## RESULT
