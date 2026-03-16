@@ -181,7 +181,7 @@ print(f'Actual Price: {actual_prices[-1]}')
 
 ## Training Loss Over Epochs Plot
 
-<https://juicy-lime-vgkrzcl5es.edgeone.app/Screenshot%202026-03-09%20091523.png>
+<img src="https://img.sanishtech.com/u/2c18045f5fc3ea524086e43205dbdbb4.png" alt="Screenshot 2026-03-09 091523" width="702" height="802" loading="lazy" style="max-width:100%;height:auto;">
 
 ## True Stock Price, Predicted Stock Price vs time
 <img width="1088" height="727" alt="STOCK PREDICTION 5" src="https://github.com/user-attachments/assets/b2d84f95-df7b-4793-bd94-a21263d07bdd" />
